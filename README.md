@@ -15,4 +15,5 @@ Python on VSCode
 
 # Useful Websites
 https://www.python.org/about/gettingstarted/
+
 https://www.digitalocean.com/community/tutorials/python-time-sleep
